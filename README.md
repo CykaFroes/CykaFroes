@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cykafroes&label=Profile%20views&color=0e75b6&style=flat" alt="cykafroes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cykafroes" alt="cykafroes" /></a> </p>
-
 - 🔭 Eu atualmente trabalho com **VTEX IO**
 
 - 📄 Toma Aqui meu CV [https://www.linkedin.com/in/luiz-engracia-froes/](https://www.linkedin.com/in/luiz-engracia-froes/)
